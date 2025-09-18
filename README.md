@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Ashu0729/Ashu0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated Lead Software Test Engineer with over 15 years of experience in the Quality Engineering and automation space. My journey has been driven by a strong passion for technology, solving real-world problems, and continuously evolving my skills through hands-on projects and impactful collaborations.  
 
-Here are some ideas to get you started:
+### 🚀 Quick Highlights  
+- 🌱 Currently exploring **TypeScript**  **Playwright**  **RestAssured**
+- 💼 Working on web automation with Selenium TestNG, API testing using ReadyAPI (Groovy)
+- 👯 Open to collaborating on exciting automation projects  
+- 💬 Ask me about **Selenium, RestAPI**  
+- 📫 Reach me at: [ashutosh.asharma0729@gmail.com](mailto:ashutosh.asharma0729@gmail.com)
+  
+### 🛠️ Tech Stack  
+- **Languages:** Core Java, Python, learning JavaScript & TypeScript  
+- **Frameworks:** Test-NG, Pytest, Robot, GreaterExpectations
+- **Tools:** Maven, Jenkins, Git, BitBucket, ReadyAPI, UFT, Postman
+- **TestManagement:** ALM, Confluence, JIRA
+- **Skills:** Selenium, API testing, Database Testing   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/ash0729/)  
+
+### 📂 Featured Repositories  
+
+
+### 🎯 Future Goals  
+I’m passionate about building **clean, scalable, and efficient automation frameworks**. My upcoming focus areas include experimenting with **Playwright**, **Cypress**, and **JMeter** to expand my automation expertise.  
+
+Feel free to explore my repositories and connect — let’s learn, share, and build together! 🚀  
+
+***
