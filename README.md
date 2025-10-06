@@ -3,10 +3,11 @@
 I'm a dedicated Lead Software Test Engineer with over 15 years of experience in the Quality Engineering and automation space. My journey has been driven by a strong passion for technology, solving real-world problems, and continuously evolving my skills through hands-on projects and impactful collaborations.  
 
 ### 🚀 Quick Highlights  
-- 🌱 Currently exploring **TypeScript**  **Playwright**  **RestAssured**
-- 💼 Working on web automation with Selenium TestNG, API testing using RestAssured and ReadyAPI (Groovy)
-- 👯 Open to collaborating on exciting automation projects   
-- 📫 Reach me at: [ashutosh.asharma0729@gmail.com](mailto:ashutosh.asharma0729@gmail.com)
+- Worked on web automation with Selenium TestNG and Selenium Pytest
+- API testing using RestAssured and ReadyAPI (Groovy)
+- Currently exploring **TypeScript**  **Playwright**  **RestAssured**
+- Open to collaborating on exciting automation projects   
+- Reach me at: [ashutosh.asharma0729@gmail.com](mailto:ashutosh.asharma0729@gmail.com)
   
 ### 🛠️ Tech Stack  
 - **Languages:** Java, Python, learning JavaScript & TypeScript
