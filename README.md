@@ -4,13 +4,12 @@ I'm a dedicated Lead Software Test Engineer with over 15 years of experience in 
 
 ### 🚀 Quick Highlights  
 - 🌱 Currently exploring **TypeScript**  **Playwright**  **RestAssured**
-- 💼 Working on web automation with Selenium TestNG, API testing using ReadyAPI (Groovy)
-- 👯 Open to collaborating on exciting automation projects  
-- 💬 Ask me about **Selenium, RestAPI**  
+- 💼 Working on web automation with Selenium TestNG, API testing using RestAssured and ReadyAPI (Groovy)
+- 👯 Open to collaborating on exciting automation projects   
 - 📫 Reach me at: [ashutosh.asharma0729@gmail.com](mailto:ashutosh.asharma0729@gmail.com)
   
 ### 🛠️ Tech Stack  
-- **Languages:** Core Java, Python, learning JavaScript & TypeScript  
+- **Languages:** Java, Python, learning JavaScript & TypeScript
 - **Frameworks:** Test-NG, Pytest, Robot, GreaterExpectations
 - **Tools:** Maven, Jenkins, Git, BitBucket, ReadyAPI, UFT, Postman
 - **TestManagement:** ALM, Confluence, JIRA
@@ -23,7 +22,7 @@ I'm a dedicated Lead Software Test Engineer with over 15 years of experience in 
 
 
 ### 🎯 Future Goals  
-I’m passionate about building **clean, scalable, and efficient automation frameworks**. My upcoming focus areas include experimenting with **Playwright**, **Cypress**, and **JMeter** to expand my automation expertise.  
+I’m passionate about building **clean, scalable, and efficient automation frameworks**. My upcoming focus areas include experimenting with **Playwright**, **JMeter**, to expand my automation expertise.  
 
 Feel free to explore my repositories and connect — let’s learn, share, and build together! 🚀  
 
