@@ -20,6 +20,9 @@ I'm a dedicated Lead SDET with over 15 years of experience in the Quality Engine
 - [LinkedIn](https://www.linkedin.com/in/ash0729/)  
 
 ### 📂 Featured Repositories  
+[Web Automation using Pytest Framework(Selenium/Python)](https://github.com/Ashu0729/PytestFramework)
+[Web Automation using TestNG Framework(Selenium/Java)](https://github.com/Ashu0729/TestNGFrameworkForOpenCartAPP)
+[API Automation using Rest Assured Framework](https://github.com/Ashu0729/RestAssuredFramework)
 
 
 ### 🎯 Future Goals  
